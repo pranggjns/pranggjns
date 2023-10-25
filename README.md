@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranggjns I'm new on Git. 
 - 👀 I’m interested in technology, pets, books, and food!
-- 🌱 I’m currently learning data, UX, and coding
+- 🌱 I’m currently learning business, data, UX, and coding
 - 📫 How to reach me pranggjns@gmail.com
 
 <!---
